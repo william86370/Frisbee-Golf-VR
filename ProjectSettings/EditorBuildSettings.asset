@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/loadup.unity
+    guid: 3c58e8ae13ddb7d428933ce5dbb5e08f
+  - enabled: 0
+    path: Assets/Scenes/tsacorse1.unity
+    guid: 5bd086d67dcf9e94baaeb4aee8a74afc
+  - enabled: 1
+    path: Assets/Scenes/1hole.unity
+    guid: 5a6783d79afdcf74498254d0f6b724ee
+  - enabled: 0
+    path: Assets/Scenes/tsafrisbee.unity
+    guid: 697d703fd9ff05d409207771f81d7e42
+  - enabled: 1
+    path: Assets/Scenes/3hole1.unity
+    guid: 16af61b81d9d5f54a9bb3b860d0211ce
+  - enabled: 1
+    path: Assets/Scenes/3hole2.unity
+    guid: 6b3cde1515f80d2429f610541bb1f774
+  - enabled: 1
+    path: Assets/Scenes/3hole3.unity
+    guid: c5890502ef3f20e44b234a789b4b7c72
+  - enabled: 1
+    path: Assets/Scenes/6hole1.unity
+    guid: cab87506832d81445bfb673584ddb2da
+  - enabled: 1
+    path: Assets/Scenes/6hole2.unity
+    guid: 4804e1ad59baeb74182d22a768e56225
+  - enabled: 1
+    path: Assets/Scenes/6hole3.unity
+    guid: 2a23c95a03fc0a846be14d6e4aa6574d
+  - enabled: 1
+    path: Assets/Scenes/6hole4.unity
+    guid: cb2560fc1be8de14eb9b54cb9d1210b1
+  - enabled: 1
+    path: Assets/Scenes/6hole5.unity
+    guid: a72d811ccd0f65f478fd5a75cf2a3df1
+  - enabled: 1
+    path: Assets/Scenes/6hole6.unity
+    guid: 00000000000000000000000000000000
